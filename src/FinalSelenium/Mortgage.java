@@ -33,7 +33,7 @@ public class Mortgage {
 		
 		String templi;
 		
-		Thread.sleep(3000);
+		Thread.sleep(10000);
 		
 
 		for (int i = 0; i<m.Msearchlist(driver).size(); i++) {
